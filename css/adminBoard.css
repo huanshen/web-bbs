@@ -1,0 +1,49 @@
+div .span10{
+	width: 7%;
+	padding-left: 1%;
+}
+div .span20{
+	width: 19%;
+	padding-left: 1%;
+}
+div .span15{
+	width: 14%;
+	padding-left: 1%;
+}
+div .span30{
+	width: 29%;
+}
+div .span33{
+	width: 32.9%;
+}
+#board div p{
+	display: inline-block;
+	text-align: center;
+}
+.hang  p{
+	display: inline-block;
+	text-align: center;
+	height: 25px;
+	padding-top:10px; 
+}
+#board div p{
+	border-bottom: 1px solid #ccc;
+	text-align: center;
+}
+.center{
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+input[type=button]{
+	margin: 20px;
+}
+p.right{
+	text-align: right;
+}
+.active{
+	background: red;
+}
+.inactive{
+	background: #aaa;
+}

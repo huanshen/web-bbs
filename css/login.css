@@ -1,0 +1,21 @@
+body{
+	background: #ccc;
+}
+.center{
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+.bgcolor{
+	background: #eee;
+	margin: 0px auto;
+	width: 90%;
+	height: auto;
+	padding: 20px 10px;
+}
+input[type="button"]{
+	margin: 10px;
+}
+form{
+	padding: 10px;
+}

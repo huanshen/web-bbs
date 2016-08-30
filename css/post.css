@@ -1,0 +1,29 @@
+.textarea{
+	width: 50%;
+	height: 50%;
+}
+body{
+	background: #ccc;
+}
+.bgcolor{
+	background: #eee;
+	margin: 0px auto;
+	width: 90%;
+	height: auto;
+	padding: 20px 10px;
+}
+.pcenter{
+	text-align: center;
+}
+p.right{
+	text-align: right;
+}
+#notice{
+	color: red;
+	text-align: center;
+	font-weight: bold;
+}
+#editor{
+	width: 90%;
+	margin: 10px auto;
+}

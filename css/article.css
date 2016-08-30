@@ -1,0 +1,75 @@
+body{
+	background: #ccc;
+}
+.center{
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+.bgcolor{
+	background: #eee;
+	margin: 0px auto;
+	width: 90%;
+	height: auto;
+	padding: 20px 10px;
+}
+p.right{
+	text-align: right;
+}
+#poster,#post-time{
+	margin: 10px;
+}
+#content{
+	margin: 10px 20px;
+}
+textarea.xheditor{
+	margin: 10px 0;
+	margin-left:5%; 
+	width: 90%;
+	height: 100px;
+}
+textarea.none1{
+	width: 90%;
+	margin-left:5%;
+}
+.none{
+	display: none;
+}
+.pfont{
+	font-size: 12px;
+	color: 	#999;
+}
+#reviewlist{
+	margin-top:20px; 
+}
+.review{
+	margin: 5px;
+	border-bottom: 1px solid #000;
+}
+.inBlock{
+	display: inline-block;
+}
+.fright{
+	text-align: right;
+}
+.hover:hover,.hover2:hover,.hover1:hover{
+	cursor:pointer;
+}
+#reviewlist .hover,#reviewlist .hover2,#reviewlist .hover1{
+	color: #3333ff;
+}
+#reviewlist p{
+	margin: 5px;
+	padding: 0;
+}
+.fontcolor{
+	color: red;
+}
+.sonreview{
+	background: #ccc;
+	margin: 10px 0;
+	margin-left: 10px;
+}
+.inline{
+	display: inline-block;
+}
